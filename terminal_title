@@ -1,0 +1,17 @@
+#!/usr/bin/env ruby
+#
+# == Description
+# Change terminal title.
+# == Author
+# elvuel<elvuel@gmail.com>
+#
+
+if $0 == __FILE__
+  if ARGV.length == 0
+    # echo -ne "\033]0;${USER}@${HOSTNAME%%.*}: ${PWD/#$HOME/~}\007"
+    title = "\033]0;Default\007"
+  else
+    title = "\033]0;#{ARGV.flatten.join(" ").gsub('"', '')}\007"
+  end
+  print title
+end
