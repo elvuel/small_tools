@@ -1,0 +1,16 @@
+== terminal_font_style.rb
+Description:
+	* Setting terminal font style with Ruby.
+
+== terminal_title
+Description:
+	* Ruby script setting termianl window/tab 's title.
+
+== LINK
+	* Personal => http://elvuel.com
+
+== LICENSE:
+The same license as Ruby. No Support. No Warranty.
+
+== AUTHOR:
+Maintained by: Elvuel
