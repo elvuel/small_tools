@@ -6,6 +6,10 @@ Description:
 Description:
 	* Ruby script setting termianl window/tab 's title.
 
+== jquery_chm2html
+Description:
+	* Extract jQuery chm to html
+
 == LINK
 	* Personal => http://elvuel.com
 
