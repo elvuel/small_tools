@@ -10,6 +10,10 @@ Description:
 Description:
 	* Extract jQuery chm to html
 
+== maibaobao
+Description:
+	* 卖包包周五－周日（老叶出没及其它活动） for CUTE-PB
+
 == LINK
 	* Personal => http://elvuel.com
 
