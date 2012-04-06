@@ -4,6 +4,8 @@ ary.each_slice(3).each do |item|
   lang, country, locale = *item
   puts locale
 end
+# https://github.com/svenfuchs/rails-i18n
+# http://rubygems.org/gems/locale
 __END__
 Arabic
 Saudi Arabia
